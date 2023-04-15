@@ -42,7 +42,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![alt text](NasaApod.gif)
+![alt text](NasaApodnew.gif)
 
 
 GIF created with **your chosen GIF tool**
